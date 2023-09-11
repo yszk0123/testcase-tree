@@ -48,7 +48,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@babel/parser": "^7.22.14",
+    "@babel/parser": "^7.22.16",
     "@babel/traverse": "^7.22.11",
     "@babel/types": "^7.22.10"
   }
